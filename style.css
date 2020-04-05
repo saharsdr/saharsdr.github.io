@@ -99,6 +99,9 @@ i{
     body{
         background-color: white;
     }
+    html{
+        font-size: 110%;
+    }
 }
  /* TaAblet */
  @media all and (max-width: 768px){
